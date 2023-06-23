@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         that how react works bro instant changes no need to reload or somthing src/App.js and save to realod humm.
+         they 848484828428 no need to realod but here I m reloading to reload or somthing src/App.js and save to realod humm.
         </p>
         <a
           className="App-link"
